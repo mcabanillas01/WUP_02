@@ -1,7 +1,7 @@
 /--
-/Title: "Cabbages"
-author: "Maria Cabanillas"
-date: "Sept.27.2020"
+/Title: "Cabbages"  
+author: "Maria Cabanillas"  
+date: "Sept.27.2020"  
 output:
   html_document:
     df_print: paged
